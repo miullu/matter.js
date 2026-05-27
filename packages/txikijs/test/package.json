@@ -1,0 +1,7 @@
+{
+    "name": "@matter/txikijs-tests",
+    "version": "0.0.0",
+    "private": true,
+    "type": "module",
+    "description": "Runtime tests for @matter/txikijs running on the txikijs runtime"
+}

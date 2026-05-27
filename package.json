@@ -17,6 +17,7 @@
         "packages/react-native",
         "packages/cli-tool",
         "packages/nodejs-ws",
+        "packages/txikijs",
         "examples/control-onoff",
         "examples/controller",
         "examples/controller-shared-fabric",
